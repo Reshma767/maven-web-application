@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.109.55.240:8081/repository/Navya-Release/</url>
+	      <url>http://13.233.103.99:8081/repository/Amazon_Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.109.55.240:8081/repository/Navya-Snapshot/</url>
+	      <url>http://13.233.103.99:8081/repository/Amazon_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
